@@ -8,6 +8,7 @@
 > Back to Basics
 
 <!-- - Flutter / iOS -->
-- AI Developer @ [Cloud-Hub](https://yunzhijia.com/)
+- AI Developer @ Shenzhen
+- darrendev@qq.com
 
 [Get Started](README.md)
